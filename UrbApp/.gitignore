@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+/dist
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# React Native
+ios/
+android/
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
