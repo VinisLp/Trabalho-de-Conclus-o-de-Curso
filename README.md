@@ -15,7 +15,7 @@ UrbApp é um projeto desenvolvido como Trabalho de Conclusão de Curso.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/VinisLp/Trabalho-de-Conclus-o-de-Curso.git
+git clone https://github.com/UrbApp-tcc/Trabalho-de-Conclus-o-de-Curso.git
 cd Trabalho-de-Conclus-o-de-Curso
 ```
 
