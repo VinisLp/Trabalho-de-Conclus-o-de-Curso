@@ -4,6 +4,9 @@ node_modules/
 *.log
 pip-lock
 
+# Repositório incorporado (não versionar)
+UrbApp/
+
 # Variáveis de ambiente
 .env
 .env.local
