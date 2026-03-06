@@ -35,7 +35,13 @@ cp .env.example .env
 - ✅ **Estrutura inicial**: Pastas `src/`, `docs/`, `tests/` criadas
 - ✅ **Documentação**: README.md e guia de commits implementados
 - ✅ **Controle de versão**: Git configurado com SSH
-- 🔄 **Próximo passo**: Migração para organização "UrbApp-tcc"
+- 🔄 **Próximo passo**: Migração para organização "UrbApp-tcc" (AGUARDANDO TRANSFERÊNCIA)
+
+## 👥 Organização
+
+Este projeto está sendo migrado para a organização **UrbApp-tcc** para facilitar a colaboração em equipe.
+
+**URL futura**: `https://github.com/UrbApp-tcc/Trabalho-de-Conclus-o-de-Curso`
 
 ## 🏗️ Próximos Passos
 
