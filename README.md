@@ -29,6 +29,22 @@ cd Trabalho-de-Conclus-o-de-Curso
 cp .env.example .env
 ```
 
+## 📊 Status do Projeto
+
+- ✅ **Repositório GitHub**: Configurado e funcional
+- ✅ **Estrutura inicial**: Pastas `src/`, `docs/`, `tests/` criadas
+- ✅ **Documentação**: README.md e guia de commits implementados
+- ✅ **Controle de versão**: Git configurado com SSH
+- 🔄 **Próximo passo**: Migração para organização "UrbApp-tcc"
+
+## 🏗️ Próximos Passos
+
+1. **Criar organização**: "UrbApp-tcc" no GitHub
+2. **Transferir repositório**: Para a organização
+3. **Desenvolver funcionalidades**: Implementar o código do UrbApp
+4. **Documentação**: Completar docs/ com arquitetura e requisitos
+5. **Testes**: Implementar suítes de teste automatizados
+
 ## 📁 Estrutura do Projeto
 
 ```
