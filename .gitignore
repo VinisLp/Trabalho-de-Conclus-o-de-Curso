@@ -1,0 +1,29 @@
+# Dependências
+node_modules/
+*.lock
+*.log
+pip-lock
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
